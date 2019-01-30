@@ -2,7 +2,7 @@
 These 4 projects helped me understand the concepts of React and how to implement Redux a state management system to store, manage and update data within the front end of an application.
 
 I am now able to:
-* Understand the purpose of React and Redux
+* Build modern user interfaces
 * Use React lifecycle methods
 * Create actions that gets handled in a reducer
 * Connect React components to Redux and call action creators
